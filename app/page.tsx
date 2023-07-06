@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Hero, SearchBar, CustomFilter, ShowMore } from "@/components";
 import { fetchCars } from "@/util";
 import { CarCard } from "@/components";
